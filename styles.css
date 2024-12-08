@@ -53,12 +53,16 @@ a,
   display: flex;
   justify-content: space-between;
   gap: 50px;
+  flex-wrap: wrap;
 }
 
 .hero-text {
   display: flex;
   flex-direction: column;
   gap: 16px;
+  flex: 1 1 200px;
+  min-width: 400px;
+  max-width: 400px;
 }
 
 .hero-main {
@@ -75,6 +79,7 @@ a,
   max-width: 400px;
   height: auto;
   align-self: center;
+  flex: 1 1 auto;
 }
 
 .inspiration {
@@ -94,7 +99,7 @@ a,
 .action {
   padding: 40px 15%;
   min-width: 900px;
-  max-width: 2000px;
+  max-width: 100%;
   flex: 1;
 }
 
@@ -169,4 +174,31 @@ h3 {
 
 .source {
   align-self: flex-end;
+}
+
+.action {
+  display: flex;
+  justify-content: center;
+  padding: 5% 15%;
+}
+
+.action-main {
+  flex: 1;
+  display: flex;
+  background-color: #2882f6;
+  border-radius: 10px;
+  color: #e5e7eb;
+  justify-content: space-between;
+  padding: 5% 10%;
+}
+
+.action-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.action-main > button {
+  border: 2px solid white;
+  border-radius: 10px;
+  align-self: center;
 }
