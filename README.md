@@ -9,4 +9,10 @@ This is the first project in the TOP Foundation course. I am making a landing pa
 
 **Hero picture by cottonbro studio:** https://www.pexels.com/nb-no/bilde/hender-holde-veggklatring-diverse-6689027/
 
-**Bilde av Allan Mas:** https://www.pexels.com/nb-no/bilde/sunn-kvinne-vegg-uskarphet-5384414/
+**Photo by Tofan Teodor:** https://unsplash.com/photos/a-man-climbing-up-the-side-of-a-climbing-wall-gi2dUvCUVB8
+
+**Photo by cottonbro studio on Pexels:** https://www.pexels.com/nb-no/bilde/kvinne
+
+**Photo by Pavel Danilyuk on Pexels:** https://www.pexels.com/nb-no/bilde/mann-armbandsur-dybdeskarphet-muskulaer-7590898/
+
+**Photo by Pavel Danilyuk on Pexels:** https://www.pexels.com/nb-no/bilde/venner-menn-kvinner-sta-7591300/
