@@ -13,7 +13,7 @@ I think there's still a lot I need to review in terms of Flexbox to completely u
 
 **Photo by Tofan Teodor:** https://unsplash.com/photos/a-man-climbing-up-the-side-of-a-climbing-wall-gi2dUvCUVB8
 
-**Photo by cottonbro studio on Pexels:** https://www.pexels.com/nb-no/bilde/kvinne
+**Photo by cottonbro studio on Pexels:** https://www.pexels.com/nb-no/bilde/kvinne-klatre-hobby-fritid-6701735/
 
 **Photo by Pavel Danilyuk on Pexels:** https://www.pexels.com/nb-no/bilde/mann-armbandsur-dybdeskarphet-muskulaer-7590898/
 
