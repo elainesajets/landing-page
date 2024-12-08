@@ -1,0 +1,35 @@
+    <div class="info-container">
+      <div class="info-title">Some motivation</div>
+      <div class="card-container">
+        <div class="info-card first-card">
+          <img class="card-img" src="/img/pexels-cottonbro-6689027.jpg" />
+          <div>some text</div>
+        </div>
+        <div class="info-card second-card">
+          <img class="card-img" src="/img/pexels-allan-mas-5384414.jpg" />
+          <div>some text</div>
+        </div>
+        <div class="info-card second-card">
+          <img class="card-img" src="/img/pexels-allan-mas-5384414.jpg" />
+          <div>some text</div>
+        </div>
+        <div class="info-card second-card">
+          <img class="card-img" src="/img/pexels-allan-mas-5384414.jpg" />
+          <div>some text</div>
+        </div>
+      </div>
+    </div>
+    <div class="quote-container">
+      <blockquote class="quote">
+        Fear less, climb more. The view from the top is worth it.
+      </blockquote>
+      <p class="quote-credit">Gemini &#129302;</p>
+    </div>
+    <div class="call-container">
+      <div class="call-to-action">
+        <h4>Call to action! It's time!</h4>
+        <p class="do-it">Sign up by clicking that button right over there!</p>
+        <button class="sign-up">Sing up</button>
+      </div>
+    </div>
+    <footer>Copyright @ The Odin Project 2021</footer>
