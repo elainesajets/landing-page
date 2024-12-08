@@ -14,7 +14,6 @@ body {
 .header,
 .footer {
   background-color: #1f2937;
-  color: #fff;
   padding: 40px 5%;
   min-width: 1000px;
 }
@@ -30,6 +29,7 @@ body {
 .header-logo {
   font-size: 24px;
   white-space: nowrap;
+  color: #f9faf8;
 }
 
 ul {
@@ -47,6 +47,7 @@ a,
 .hero-sub {
   font-size: 18px;
   color: #efe7eb;
+  font-weight: lighter;
 }
 
 .hero {
@@ -69,6 +70,7 @@ a,
 .hero-main {
   font-size: 48px;
   font-weight: 900;
+  color: #f9faf8;
 }
 
 .hero-text > button {
@@ -107,35 +109,37 @@ a,
 
 .footer {
   text-align: center;
+  color: #f9faf8;
 }
 
 button {
-  background-color: #2882f6;
+  background-color: #3882f6;
   padding: 10px 30px;
   border-radius: 10px;
   border: none;
   color: #f9faf8;
+  white-space: nowrap;
 }
 
 .information {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  gap: 16px;
+  gap: 30px;
   flex-wrap: wrap;
   align-content: center;
   margin-bottom: 50px;
 }
 
 h3 {
-  width: 100%;
+  font-weight: 900;
   font-size: 36px;
+  color: #1f2937;
   text-align: center;
   margin: 0 auto;
 }
 
 .card-container {
-  /* width: 100%; */
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
@@ -155,7 +159,7 @@ h3 {
   width: 250px;
   height: 200px;
   object-fit: cover;
-  border: 3px solid #2882f6;
+  border: 3px solid #3882f6;
   border-radius: 10px;
   margin: 10px;
 }
@@ -191,7 +195,7 @@ h3 {
 .action-main {
   flex: 1;
   display: flex;
-  background-color: #2882f6;
+  background-color: #3882f6;
   border-radius: 10px;
   color: #e5e7eb;
   justify-content: space-between;
